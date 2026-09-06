@@ -16,6 +16,7 @@
 
 **Sources**
 - BMKG - Temporarily disable alert support
+- Gadgetbridge - Add pressure, cloud cover, and dewpoint (@ThomasKuehne)
 - Open-Meteo - Update selectable weather models
 - Pollen Information - Add missing pollens: ash, chestnut, linden, plantain, sorrel
 
